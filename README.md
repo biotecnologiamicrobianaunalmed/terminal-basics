@@ -13,7 +13,7 @@ Everything before the symbol > indicates the place where you are located. The fi
 ```sh
 C:\Users\Name>dir
 
-Directory of C:\Users\Ary
+Directory of C:\Users\Name
 
 dd/mm/aaaa    hh:mm   <DIR>   Desktop
 dd/mm/aaaa    hh:mm   <DIR>   Documents
