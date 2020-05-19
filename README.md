@@ -8,7 +8,7 @@ When you open the terminal or command prompt you usually find the following:
 C:\Users\Name>
 ```
 
-Everything before the symbol> indicates the place where you are located. The first basic command allows you to see a list of the elements and/or folders that are in the current path(C:\Users\Name). This command is **dir**, if you type it and press enter you will find something like this:
+Everything before the symbol > indicates the place where you are located. The first basic command allows you to see a list of the elements and/or folders that are in the current path (C:\Users\Name). This command is **dir**, if you type it and press enter you will find something like this:
 
 ```sh
 C:\Users\Name>dir
@@ -19,7 +19,7 @@ dd/mm/aaaa    hh:mm   <DIR>   Desktop
 dd/mm/aaaa    hh:mm   <DIR>   Documents
 dd/mm/aaaa    hh:mm   <DIR>   Downloads
 ```
-The order of the list depends on each team and its content.
+The order of the list depends on each computer and its content.
 
 If you want to change folder, for example to the desktop, you can use the **cd** command and copy the respective name. 
 
