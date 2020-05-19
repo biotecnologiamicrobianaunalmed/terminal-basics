@@ -52,3 +52,10 @@ With these three basic commands you can use the PVDP platform.
 ## Linux
 
 In this operating system the **cd** and **cd ..** commands work the same way. However the command to see the folders and/or files of the present path is **ls**.
+
+
+# Summary
+
+- **dir**  : Displays a list of the contents of a directory or folder. In Linux its equivalent is **ls**.
+- **cd**  : Used to move through folders and subfolders.
+- **cd ..**  : Used to go back one level of folders and subfolders.
